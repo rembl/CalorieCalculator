@@ -1,5 +1,13 @@
 ## Техническое задание проекта
 
+### Скриншоты готового проекта
+
+<img width="1280" alt="Снимок экрана 2022-12-06 в 14 49 33" src="https://user-images.githubusercontent.com/58863120/205904163-295c0fad-5d3a-40b2-8c1e-b279f6ba7dd4.png">
+<img width="1280" alt="Снимок экрана 2022-12-06 в 14 49 47" src="https://user-images.githubusercontent.com/58863120/205904186-4a02c8c7-0e5f-4757-9771-b71816247e67.png">
+<img width="1280" alt="Снимок экрана 2022-12-06 в 14 49 53" src="https://user-images.githubusercontent.com/58863120/205904193-8a1b9520-a388-49b4-a5c9-774ac21b4492.png">
+<img width="1280" alt="Снимок экрана 2022-12-06 в 14 50 19" src="https://user-images.githubusercontent.com/58863120/205904206-099d6281-9035-42e1-92ae-5bcb656d77c5.png">
+
+
 ### О проекте
 
 В этом проекте запрограммировано одностраничное приложение, которое работает в браузере — счётчик калорий. 
